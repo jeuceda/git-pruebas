@@ -1,6 +1,5 @@
 1. Preparar la masa
-2. preparar la salsa
-3. preparar la carne
-4. estirar la masa y colocar la salsa
-5. colocar el queso
-6. colocar la carne
+2. dejarla reposar
+3. cortar tomates, licuarlos con la pasta.
+4. añadir la salsa
+5. armar la pizza y meterla en el horno
